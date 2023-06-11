@@ -33,14 +33,17 @@ ___
   - ## User Cart when it contains some items  
     - ## ![](images/cart.png)
 
-
+  - ## User profile page with user related details and orders and wishlist of the user
+    - ## ![](images/profile.png)
 
   - ## Search auto complete which fetch data from datbase at runtime 
     - ## ![](images/search.png)
 
 
+# Contributions
+  -  I need mostly contributions in the front end part where data should be displayed properly and also if there may be some changes in the backend let me know it will be a leaning for me.
 
+  - Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B60755&size=30&center=true&vCenter=true&width=500&lines=Thank+You+for+visiting+)](https://git.io/typing-svg)
-
